@@ -28,3 +28,6 @@
 * [Licencia](#licencia)
 
 *[Conclusión](#conclusión)
+
+Para ejecutrtar el sistema, debes ponerj:
+````npm install react````
